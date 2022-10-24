@@ -15,7 +15,8 @@
 
 3 . Instal file yang di download, jangan lupa cheklist pilihan add Python.exe to PATH, agar Python dapat dipanggil ke CMD.
 
-![ss2](https://user-images.githubusercontent.com/115889904/197460401-716201d5-a713-472f-a4a8-b49a6b902cc0.png)
+![images](https://user-images.githubusercontent.com/115889904/197468177-e155931f-cefe-4954-9a70-a4770410ca22.jpg)
+
 
 4 . Klik Next sampai selesai instalasi
 
