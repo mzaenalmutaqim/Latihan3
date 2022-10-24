@@ -57,8 +57,6 @@ Membuat File pada IDLE
 ![ss7](https://user-images.githubusercontent.com/115889904/197461014-ef2486fb-8531-45d1-92f7-678e74119992.png)
 
 
-3 . Selesai
-
 *MENJUMLAH DUA BUAH BILANGAN MENGGUNAKAN VARIABLE a DAN b DI PYTHON*
 
 1 . Tuliskan perintah Pada IDLE :
@@ -104,8 +102,6 @@ Maka hasil Penggabungan ,Penjumlahan, dan Pembagian akan terdeklarasi.
 ![ss9](https://user-images.githubusercontent.com/115889904/197461101-74c673ec-38da-4bc5-8a9b-3330c65a8335.png)
 
 
-3 . Selesai
-
 Menjalankan PyCharm
 
 1 . Download PyCharm (https://www.jetbrains.com/pycharm/)
@@ -115,27 +111,31 @@ Menjalankan PyCharm
 
 2 . Instal dan buka Aplikasinya
 
-12
+![ss11](https://user-images.githubusercontent.com/115889904/197466604-6a8c346b-4a00-4d8b-a717-886f6511727f.png)
+
 
 3 . Klik New Project lalu Crate
 
-13
+![ss12](https://user-images.githubusercontent.com/115889904/197466730-efe8dbbd-45e5-4809-a01d-49311d7a277c.png)
+
 
 4 . Tuliskan perintah untuk mencari jari jari lingkaran
 
-  r = input("Masukan jari-jari lingkaran :")
-  pi = 3.14
-  l = pi * int(r) * int(r)
-  k = 2 * pi * int(r)
-  print("Luas lingkaran :", 1)
-  print("Keliling lingkaran :",k)
-14
+    r = input("Masukan jari-jari lingkaran :")
+    pi = 3.14
+    l = pi * int(r) * int(r)
+    k = 2 * pi * int(r)
+    print("Luas lingkaran :", 1)
+    print("Keliling lingkaran :",k)
+![ss13](https://user-images.githubusercontent.com/115889904/197466787-801155e8-0142-4e23-bd60-e61a538a5da9.png)
+
 
 5 . Kemudian klik Run untuk melihat hasil
 
 Isi jari jari lingkaran : 10
 
-15
+![ss14](https://user-images.githubusercontent.com/115889904/197466835-ea929704-367c-4b23-8277-2e9d4e9c4307.png)
+
 
 6 . Selesai
 
