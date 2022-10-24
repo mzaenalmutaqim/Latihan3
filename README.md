@@ -15,9 +15,9 @@ INSTALASI DAN PENGGUNAAN PYTHON
 
 3 . Instal file yang di download, jangan lupa cheklist pilihan add Python.exe to PATH, agar Python dapat dipanggil ke CMD.
 
-2
+![ss2](https://user-images.githubusercontent.com/115889904/197460401-716201d5-a713-472f-a4a8-b49a6b902cc0.png)
 
-4 . Klik Next saampai selesai instalasi
+4 . Klik Next sampai selesai instalasi
 
 * Menjalankan Python Console
 
@@ -25,17 +25,16 @@ INSTALASI DAN PENGGUNAAN PYTHON
 
 2 . Masuk ke CMD
 
-3
+![ss3](https://user-images.githubusercontent.com/115889904/197460516-9b62ed05-e07a-4863-99ac-ab7d5cbd44b8.png)
 
 3 . Setelah jendela CMD terbuka, ketikan perintah Python.
-
-4
 
 4 . Jika tampilan CMD sudah menerangkan Versi Python maka python sudah terinstal dan dapat dipergunakan.
 
 5 . ketik print("hello") untuk menguji berjalannya python pada CMD.
 
-5
+![ss4](https://user-images.githubusercontent.com/115889904/197460618-ea91b5e6-a1c5-4e5d-a316-ddea2927201a.png)
+
 
 * Menjalankan IDLE
 
