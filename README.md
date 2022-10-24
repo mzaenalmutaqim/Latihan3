@@ -8,7 +8,8 @@ INSTALASI DAN PENGGUNAAN PYTHON
 
 1 . Download pada web resmi python.org.
 
-1
+![ss4](https://user-images.githubusercontent.com/115889904/197456136-4328a01e-cb74-4fde-8ef9-3a1cfd663863.png)
+
 
 2 . Kemudian klik download pada daftar opsi pilihan di web Python.
 
