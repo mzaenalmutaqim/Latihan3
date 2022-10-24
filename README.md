@@ -102,7 +102,7 @@ Maka hasil Penggabungan ,Penjumlahan, dan Pembagian akan terdeklarasi.
 ![ss9](https://user-images.githubusercontent.com/115889904/197461101-74c673ec-38da-4bc5-8a9b-3330c65a8335.png)
 
 
-Menjalankan PyCharm
+* Menjalankan PyCharm
 
 1 . Download PyCharm (https://www.jetbrains.com/pycharm/)
 
@@ -137,7 +137,6 @@ Isi jari jari lingkaran : 10
 ![ss14](https://user-images.githubusercontent.com/115889904/197466835-ea929704-367c-4b23-8277-2e9d4e9c4307.png)
 
 
-6 . Selesai
 
 # THANK YOU
 *M. ZAENAL MUTAQIM*
