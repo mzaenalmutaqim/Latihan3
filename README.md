@@ -38,23 +38,24 @@ INSTALASI DAN PENGGUNAAN PYTHON
 
 * Menjalankan IDLE
 
-Secara pengertian sederhana, IDLE Python merupakan teks editor bawaan Python.
-
 Membuat File pada IDLE
 
 1 . Ketik di pencarian komputer/laptopmu "IDLE"
 
-6
+![ss5](https://user-images.githubusercontent.com/115889904/197460930-a8e48191-85c3-4525-aa21-d4b2d2b3a1d0.png)
+
 
 2 . Lalu jalankan IDLE
 
 3 . Setelah jendela IDLE terbuka, Klik File kemudian New Files
 
-7
+![ss6](https://user-images.githubusercontent.com/115889904/197460977-44429778-7252-4905-add0-cc5498122108.png)
+
 
 4 . Maka jendela baru akan terbuka
 
-8
+![ss7](https://user-images.githubusercontent.com/115889904/197461014-ef2486fb-8531-45d1-92f7-678e74119992.png)
+
 
 3 . Selesai
 
@@ -87,7 +88,8 @@ Membuat File pada IDLE
   format(a,b) %(a+b))
   print("Hasil pembagian {1}/{0}=%s".
   format(a,b) %(a/b))
-9
+![ss8](https://user-images.githubusercontent.com/115889904/197461050-3f9d560a-b086-4b80-b338-244bac0fc5fa.png)
+
 
 2 . Kemudian klik Run dan Run Module untuk melihat hasil
 
@@ -97,7 +99,8 @@ Isi nilai b = 8
 
 Maka hasil Penggabungan ,Penjumlahan, dan Pembagian akan terdeklarasi.
 
-10
+![ss9](https://user-images.githubusercontent.com/115889904/197461101-74c673ec-38da-4bc5-8a9b-3330c65a8335.png)
+
 
 3 . Selesai
 
@@ -105,7 +108,8 @@ Menjalankan PyCharm
 
 1 . Download PyCharm (https://www.jetbrains.com/pycharm/)
 
-11
+![ss10](https://user-images.githubusercontent.com/115889904/197461129-228c9b05-56b4-436c-8872-eb26151eb2a2.png)
+
 
 2 . Instal dan buka Aplikasinya
 
