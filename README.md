@@ -88,6 +88,8 @@ Membuat File pada IDLE
   format(a,b) %(a+b))
   print("Hasil pembagian {1}/{0}=%s".
   format(a,b) %(a/b))
+  
+  Jangan lupa save di folder kerjamu sebelum di run
 ![ss8](https://user-images.githubusercontent.com/115889904/197461050-3f9d560a-b086-4b80-b338-244bac0fc5fa.png)
 
 
